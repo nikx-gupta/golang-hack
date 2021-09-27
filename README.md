@@ -1,1 +1,2 @@
-# golang-hack
+# lab-golang
+Golang Labs

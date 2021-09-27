@@ -1,0 +1,8 @@
+package tuplesrnd
+
+
+func main() {
+
+}
+
+
